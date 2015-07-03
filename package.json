@@ -21,6 +21,7 @@
   "homepage": "https://github.com/tcr/mediakeys",
   "dependencies": {
     "bindings": "~1.2.0",
+    "nan": "^1.8.4",
     "newline-json": "0.0.4"
   }
 }
